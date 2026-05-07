@@ -121,7 +121,7 @@ ui <- navbarPage(
           tags$li(strong("Centrality:"),
             " compare how differently each character ranks depending on which measure you use."),
           tags$li(strong("Network Measures:"),
-            " density, class assortativity, and community detection results."),
+            " density / class assortativity / community detection results."),
           tags$li(strong("Data collection process and measurements analysis are still in progress."))
         )
       ),
