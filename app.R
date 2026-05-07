@@ -50,7 +50,7 @@ edge_colors <- c(
 )
 
 ui <- navbarPage(
-  title = "⚔  A Knight of the Seven Kingdoms: Dialogue Network",
+  title = "A Knight of the Seven Kingdoms Dialogue Network",
   theme = bs_theme(bootswatch = "flatly", primary = "#8B1A1A"),
   collapsible = TRUE,
 
